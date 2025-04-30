@@ -1,13 +1,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>ជុំ ទិតស័ក្ដា👨🏻‍💻🤍, Hi there! I'm Chom Titsakada! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/63217018/177740617-ddf58d84-b6f6-4909-96e7-0297b5382cc6.gif" width="250">
-<p><em>Software Engineer at <a href="zandokh.com">Zando
 </a><img src="https://user-images.githubusercontent.com/63217018/177740617-ddf58d84-b6f6-4909-96e7-0297b5382cc6.gif" width="30"> 
 </em></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.chomtitsakada.xyz"><img src="https://img.shields.io/badge/visothipong-pong-blue/?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.chomtitsakada.xyz"><img src="https://img.shields.io/badge/chom-titsakada-blue/?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
