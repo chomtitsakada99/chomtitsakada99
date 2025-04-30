@@ -64,10 +64,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=white">
   </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue%20-%2320232a.svg?logo=vuejs&logoColor=white">
-  </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
