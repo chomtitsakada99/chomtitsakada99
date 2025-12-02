@@ -60,22 +60,18 @@
 </p>
 
 ---
+| Language       | Skill Level | Projects |
+|----------------|------------|----------|
+| JavaScript     | ![60%](https://progress-bar.dev/60/?title=JavaScript) (https://github.com/chomtitsakada99/mini-project.git) |
+| HTML           | ![80%](https://progress-bar.dev/80/?title=HTML) | (https://github.com/chomtitsakada99/flutter-edc_clone.git) |
+| CSS            | ![70%](https://progress-bar.dev/70/?title=CSS) | (https://www.chomtitsakada.xyz), [Web App](https://github.com/chomtitsakada99/mini-project.git) |
+| React          | ![65%](https://progress-bar.dev/65/?title=React) | (https://github.com/chomtitsakada99/mini-project.git), [Mobile App](https://github.com/Rey-Sok/Leading-page-GEIP.git) |
+| Bootstrap      | ![70%](https://progress-bar.dev/70/?title=Bootstrap) | (https://www.chomtitsakada.xyz) |
+| Tailwind CSS   | ![60%](https://progress-bar.dev/60/?title=Tailwind) | ](https://www.chomtitsakada.xyz) |
+| Git / GitHub   | ![75%](https://progress-bar.dev/75/?title=Git) | All projects |
+| Illustrator    | ![50%](https://progress-bar.dev/50/?title=Illustrator) | Portfolio graphics, web mockups |
+| Photoshop      | ![55%](https://progress-bar.dev/55/?title=Photoshop) | Portfolio graphics, web mockups |
 
-### 📊 Language Skill Percentages
-
-| Language       | Skill Level |
-|----------------|------------|
-| JavaScript     | ![60%](https://progress-bar.dev/60/?title=JavaScript) |
-| HTML           | ![80%](https://progress-bar.dev/80/?title=HTML) |
-| CSS            | ![70%](https://progress-bar.dev/70/?title=CSS) |
-| React          | ![65%](https://progress-bar.dev/65/?title=React) |
-| Bootstrap      | ![70%](https://progress-bar.dev/70/?title=Bootstrap) |
-| Tailwind CSS   | ![60%](https://progress-bar.dev/60/?title=Tailwind) |
-| Git / GitHub   | ![75%](https://progress-bar.dev/75/?title=Git) |
-| Illustrator    | ![50%](https://progress-bar.dev/50/?title=Illustrator) |
-| Photoshop      | ![55%](https://progress-bar.dev/55/?title=Photoshop) |
-
-> You can adjust percentages to reflect your personal skill level.
 
 ---
 
