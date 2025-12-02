@@ -61,6 +61,24 @@
 
 ---
 
+### 📊 Language Skill Percentages
+
+| Language       | Skill Level |
+|----------------|------------|
+| JavaScript     | ![60%](https://progress-bar.dev/60/?title=JavaScript) |
+| HTML           | ![80%](https://progress-bar.dev/80/?title=HTML) |
+| CSS            | ![70%](https://progress-bar.dev/70/?title=CSS) |
+| React          | ![65%](https://progress-bar.dev/65/?title=React) |
+| Bootstrap      | ![70%](https://progress-bar.dev/70/?title=Bootstrap) |
+| Tailwind CSS   | ![60%](https://progress-bar.dev/60/?title=Tailwind) |
+| Git / GitHub   | ![75%](https://progress-bar.dev/75/?title=Git) |
+| Illustrator    | ![50%](https://progress-bar.dev/50/?title=Illustrator) |
+| Photoshop      | ![55%](https://progress-bar.dev/55/?title=Photoshop) |
+
+> You can adjust percentages to reflect your personal skill level.
+
+---
+
 ### 📂 Projects
 
 | Project | Description | Link |
@@ -68,8 +86,6 @@
 | Portfolio Website | My personal website showcasing projects | [View](https://www.chomtitsakada.xyz) |
 | Web App | Task management app using React & Firebase | [GitHub](https://github.com/chomtitsakada99/mini-project.git) |
 | Mobile App | Simple React Native app for learning | [GitHub](https://github.com/Rey-Sok/Leading-page-GEIP.git) |
-
-> You can replace the GIFs/screenshots for each project for a more visual experience.
 
 ---
 
