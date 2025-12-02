@@ -66,8 +66,8 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | Portfolio Website | My personal website showcasing projects | [View](https://www.chomtitsakada.xyz) |
-| Web App | Task management app using React & Firebase | [GitHub](https://github.com/chomtitsakada99/task-app) |
-| Mobile App | Simple React Native app for learning | [GitHub](https://github.com/chomtitsakada99/react-native-app) |
+| Web App | Task management app using React & Firebase | [GitHub](https://github.com/chomtitsakada99/mini-project.git) |
+| Mobile App | Simple React Native app for learning | [GitHub](https://github.com/Rey-Sok/Leading-page-GEIP.git) |
 
 > You can replace the GIFs/screenshots for each project for a more visual experience.
 
