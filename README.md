@@ -11,10 +11,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="https://www.chomtitsakada.xyz"><img src="https://img.shields.io/badge/chom-titsakada-blue/?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-  <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-  <a href="https://calendly.com/visothipong7772/30min" target="_blank"><img src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" width="200"></a>
+  <a href="mailto:chomtitsakada999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
