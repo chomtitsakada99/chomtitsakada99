@@ -11,7 +11,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="mailto:chomtitsakada999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:chomtitsakada999@gmail.com?subject=Hello%20Chom"><img src="https://img.shields.io/badge/Mail%20Me-chomtitsakada999%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
