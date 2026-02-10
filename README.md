@@ -59,31 +59,7 @@
   <a href="#"><img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=white"></a>
 </p>
 
----
-| Language       | Skill Level | Projects |
-|----------------|------------|----------|
-| JavaScript     | ![60%](https://progress-bar.dev/60/?title=JavaScript) (https://github.com/chomtitsakada99/mini-project.git) |
-| HTML           | ![80%](https://progress-bar.dev/80/?title=HTML) | (https://github.com/chomtitsakada99/flutter-edc_clone.git) |
-| CSS            | ![70%](https://progress-bar.dev/70/?title=CSS) | (https://www.chomtitsakada.xyz), [Web App](https://github.com/chomtitsakada99/mini-project.git) |
-| React          | ![65%](https://progress-bar.dev/65/?title=React) | (https://github.com/chomtitsakada99/mini-project.git), [Mobile App](https://github.com/Rey-Sok/Leading-page-GEIP.git) |
-| Bootstrap      | ![70%](https://progress-bar.dev/70/?title=Bootstrap) | (https://www.chomtitsakada.xyz) |
-| Tailwind CSS   | ![60%](https://progress-bar.dev/60/?title=Tailwind) | ](https://www.chomtitsakada.xyz) |
-| Git / GitHub   | ![75%](https://progress-bar.dev/75/?title=Git) | All projects |
-| Illustrator    | ![50%](https://progress-bar.dev/50/?title=Illustrator) | Portfolio graphics, web mockups |
-| Photoshop      | ![55%](https://progress-bar.dev/55/?title=Photoshop) | Portfolio graphics, web mockups |
 
-
----
-
-### 📂 Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| Portfolio Website | My personal website showcasing projects | [View](https://www.chomtitsakada.xyz) |
-| Web App | Task management app using React & Firebase | [GitHub](https://github.com/chomtitsakada99/mini-project.git) |
-| Mobile App | Simple React Native app for learning | [GitHub](https://github.com/Rey-Sok/Leading-page-GEIP.git) |
-
----
 
 ### 📈 GitHub Stats
 
